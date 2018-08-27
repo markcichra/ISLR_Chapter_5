@@ -1,5 +1,5 @@
 # ISLR_Chapter_5
-Code and work for "Applied" problems at the end of Introduction to Statistical Learning Chapter 4, completed in R and in Python.
+Code and work for "Applied" problems at the end of Introduction to Statistical Learning Chapter 5, completed in R and in Python.
 
 For the R work, I have made the effort to not consult existing attempts to complete these excercises so that the work is my own.
 
